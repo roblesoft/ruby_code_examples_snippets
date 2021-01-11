@@ -1,4 +1,4 @@
-# Ruby code examples
+# Ruby code test
 
 ## 1. Write a function that returns product of all numbers of an array/range
 
